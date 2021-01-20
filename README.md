@@ -34,3 +34,4 @@ The Client typically attaches JWT in Authorization header with Bearer prefix:
 Or only in x-access-token header:
 
 `x-access-token: [header].[payload].[signature]`
+# node-js-jwt-authentication-postgresql
